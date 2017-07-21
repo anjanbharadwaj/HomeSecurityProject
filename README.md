@@ -1,7 +1,10 @@
 # HomeSecurityProject
 Terms of Use:
 This project was created by Anjan Bharadwaj. Feel free to use it, but I request that you don't remove the commented out sections in the code (where I explain my contributions)
-
+APIs Used:
+Kairos, Twilio, Cloudinary
+NPM Packages used:
+base64Img, request, MjpegConsumer, FileOnWrite, Limiter, Chokidar/FS
 Background:
 I created this project because I had an extra network camera (for example, the ones that come in commercial home security packages) lying around my house going to waste. This application runs on a Node.js server and allows a user to make use of their cameras efficiently. 
 
