@@ -1,0 +1,1 @@
+Before using this application, clear out this text file! (This was placed in the folder so that it could be retrieved when forking the repository from GitHub)!

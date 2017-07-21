@@ -1,0 +1,3 @@
+Before using this application, clear out this text file! (This was placed in the folder so that it could be retrieved when forking the repository from GitHub)! 
+
+Then, add whatever images you have of friends and adjust the code in the addfriends.js program to match whichever image you want to upload to your gallery. You can add multiple images of the same person, just keep the subject name the same!
