@@ -1,6 +1,6 @@
 # HomeSecurityProject
 Terms of Use:
-This project was created by Anjan Bharadwaj. Feel free to use it, but I request that you don't remove the commented out sections in the code (where I explain my contributions)
+This project was created by Anjan Bharadwaj. Feel free to use it, but I request that you don't remove the commented out sections in the code (where I explain my contributions). I only used Node.js for this project, which makes it any easier alternative as a viable home security system than having multiple platforms.
 APIs Used:
 Kairos, Twilio, Cloudinary
 NPM Packages used:
